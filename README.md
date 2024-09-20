@@ -1,6 +1,6 @@
 
 # LuminaOS-Reborn
-LuminaOS-Reborn is an Hobby OS by Epiczhul. LuminaOS-Legacy is made using the OSdev wiki.
+LuminaOS-Reborn is an Hobby OS by Epiczhul. LuminaOS-Reborn is made using the OSdev wiki.
 
 
 
