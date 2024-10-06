@@ -14,7 +14,9 @@ LuminaOS-Legacy is an Hobby OS by Epiczhul. LuminaOS-Legacy is made using the OS
 - [x]  Switchung to 64bit.
 - [x]  VMware-SVGAii Driver.
 - [x]  VGA Driver.
+- [x]  64-bit.
 - [ ]  Vmm Implementation.  
-- [ ]  Full PCI  
+- [ ]  Full PCI
+- [ ]  Multicore
 ## Credits, thanks to
 - The People who wrote things in the OSdev wiki.
