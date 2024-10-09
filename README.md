@@ -18,5 +18,7 @@ LuminaOS-Legacy is an Hobby OS by Epiczhul. LuminaOS-Legacy is made using the OS
 - [ ]  Vmm Implementation.  
 - [ ]  Full PCI
 - [ ]  Multicore
+
+### THE CODE ON THIS REPO IS OLD! PLEASE DONT USE IT BECAUSE IT MAY BE BAD!
 ## Credits, thanks to
 - The People who wrote things in the OSdev wiki.
