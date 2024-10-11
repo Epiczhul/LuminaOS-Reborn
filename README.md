@@ -4,21 +4,18 @@ LuminaOS-Reborn is an Hobby OS by Epiczhul. LuminaOS-Reborn is made using the OS
 
 
 
-
 ![Logo](https://github.com/Epiczhul/LuminaOS-Reborn/blob/main/images/icon-500x500.png?raw=true)
 
 
 ## Todo
-
-### Column Name
-- [x]  Switchung to 64bit.
-- [x]  VMware-SVGAii Driver.
-- [x]  VGA Driver.
-- [x]  64-bit.
+- [ ]  Switchung to 64bit.
+- [ ]  VMware-SVGAii Driver.
+- [ ]  VGA Driver.
 - [ ]  Vmm Implementation.  
 - [ ]  Full PCI
 - [ ]  Multicore
-
-### THE CODE ON THIS REPO IS OLD! PLEASE DONT USE IT BECAUSE IT MAY BE BAD!
+- [ ]  Running Bash
+- [ ]  OS Specific toolchain
+- [ ]  Linux Syscalls
 ## Credits, thanks to
 - The People who wrote things in the OSdev wiki.
