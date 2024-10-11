@@ -16,7 +16,11 @@ LuminaOS-Reborn is an Hobby OS by Epiczhul. LuminaOS-Reborn is made using the OS
 - [ ]  OS Specific toolchain
 - [ ]  Linux Syscalls
 - [ ]  Running sh
+
 ## Credits, thanks to
 - The People who wrote things in the OSdev wiki.
 - Dennis Ritchie for inventing C.
 - Kathleen Hylda Valerie Booth for inventing Assembly.
+- Intel for inventing x86.
+- AMD for inventing x86_64.
+- Charles Babbage for inventing Computers.
