@@ -9,14 +9,13 @@ LuminaOS-Reborn is an Hobby OS by Epiczhul. LuminaOS-Reborn is made using the OS
 
 ## Todo
 - [ ]  Switchung to 64bit.
-- [ ]  VMware-SVGAii Driver.
-- [ ]  VGA Driver.
-- [ ]  Vmm Implementation.  
+- [ ]  Full VGA Driver.
+- [ ]  Full Vmm.  
 - [ ]  Full PCI
-- [ ]  Multicore
-- [ ]  Running Bash
+- [ ]  Multithreading
 - [ ]  OS Specific toolchain
 - [ ]  Linux Syscalls
+- [ ]  Running sh
 ## Credits, thanks to
 - The People who wrote things in the OSdev wiki.
 - Dennis Ritchie for inventing C.
