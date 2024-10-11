@@ -19,6 +19,7 @@ LuminaOS-Reborn is an Hobby OS by Epiczhul. LuminaOS-Reborn is made using the OS
 
 ## Credits, thanks to
 - The People who wrote things in the OSdev wiki.
+- Linus Torvalds for inventing Git and making the first Open Source kernel ever.
 - Dennis Ritchie for inventing C.
 - Kathleen Hylda Valerie Booth for inventing Assembly.
 - Intel for inventing x86.
