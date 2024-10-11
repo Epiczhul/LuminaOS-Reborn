@@ -1,5 +1,5 @@
 
-# LuminaOS-Legacy
+# LuminaOS-Reborn
 LuminaOS-Legacy is an Hobby OS by Epiczhul. LuminaOS-Legacy is made using the OSdev wiki.
 
 
