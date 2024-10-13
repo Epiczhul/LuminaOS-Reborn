@@ -9,12 +9,10 @@ Made by Epiczhul.
 
 
 ## Todo
-- [ ]  Switchung to 64bit.
-- [ ]  Full VGA Driver.
-- [ ]  Full Vmm.  
-- [ ]  Full PCI
-- [ ]  Multithreading
-- [ ]  OS Specific toolchain
+- [ ]  Building on Linux and Windows
+- [ ]  Switching to 64bit.
+- [ ]  Full VGA Graphics driver
+- [ ]  OS Specific Toolchain
 - [ ]  Linux Syscalls
 - [ ]  Running sh
 
@@ -26,3 +24,6 @@ Made by Epiczhul.
 - Intel for inventing x86.
 - AMD for inventing x86_64.
 - Charles Babbage for inventing Computers.
+
+## Hate to:
+- Intel for still making CPU's booting in 16bit Real-mode even if modern Computers have UEFI.
