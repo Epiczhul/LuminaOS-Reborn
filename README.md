@@ -2,8 +2,8 @@
 # LuminaOS-Reborn
 Another Unix-like Operating System.
 
-![GitHub last commit](https://img.shields.io/github/last-commit/Epiczhul/LuminaOS-Reborn)
-![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/Epiczhul/LuminaOS-Reborn)
+![GitHub last commit](https://img.shields.io/github/last-commit/Epiczhul/LuminaOS-Reborn?style=for-the-badge&logo=git)
+![GitHub Issues ](https://img.shields.io/github/issues/Epiczhul/LuminaOS-Reborn?style=for-the-badge&logo=github)
 ![GitHub License](https://img.shields.io/github/license/Epiczhul/LuminaOS-Reborn)
 
 
