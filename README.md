@@ -1,6 +1,7 @@
 
 # LuminaOS-Reborn
-LuminaOS-Reborn is an Hobby OS by Epiczhul. LuminaOS-Reborn is made using the OSdev wiki.
+Another Unix-like Operating System.
+Made by Epiczhul.
 
 
 
