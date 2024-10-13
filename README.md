@@ -10,9 +10,9 @@ Another Unix-like Operating System.
 
 
 ## Todo
-- [ ]  Building on Linux and Windows
-- [ ]  Switching to 64bit.
-- [ ]  Full VGA Graphics driver
+- [X]  Building on Linux and Windows
+- [X]  Switching to 64bit.
+- [X]  Full VGA Graphics driver
 - [ ]  OS Specific Toolchain
 - [ ]  Linux Syscalls
 - [ ]  Running sh
