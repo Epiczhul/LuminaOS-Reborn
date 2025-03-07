@@ -12,7 +12,7 @@ Another Unix-like Operating System.
 ## Todo
 - [X]  Building on Linux and Windows
 - [X]  Switching to 64bit.
-- [X]  Full VGA Graphics driver
+- [ ]  Full VGA Graphics driver
 - [ ]  OS Specific Toolchain
 - [ ]  Linux Syscalls
 - [ ]  Running sh
